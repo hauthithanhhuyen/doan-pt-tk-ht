@@ -1,8 +1,8 @@
 
 
-#LẬP DÀN Ý CÁC CHỨC NĂNG CỦA HỆ THỐNG,ĐỐI TƯỢNG SỬ DỤNG
+# LẬP DÀN Ý CÁC CHỨC NĂNG CỦA HỆ THỐNG,ĐỐI TƯỢNG SỬ DỤNG
 
-#Chức năng của hệ thống
+# Chức năng của hệ thống
 # QUẢN LÝ GIÁO VIÊN- HỌC SINH
 # Quản lý học sinh
 (Thêm/xóa/sửa thông tin học sinh(họ tên,nagyf sinh ,giới tính,dịa chỉ lớp)
