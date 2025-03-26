@@ -5,7 +5,7 @@
 ## Chức năng của hệ thống
 ### QUẢN LÝ GIÁO VIÊN- HỌC SINH
 # Quản lý học sinh
-(Thêm/xóa/sửa thông tin học sinh(họ tên,nagyf sinh ,giới tính,dịa chỉ lớp)
+(Thêm/xóa/sửa thông tin học sinh(họ tên,ngày sinh ,giới tính,dịa chỉ lớp)
 # Quản lý giáo viên
 (Thêm/xóa /thông tin giáo viên(họ tên,chuyên môn,bộ môn,sdt)
 (Phân công giảng dạy)
