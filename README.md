@@ -1,9 +1,15 @@
 
 
-# LẬP DÀN Ý CÁC CHỨC NĂNG CỦA HỆ THỐNG,ĐỐI TƯỢNG SỬ DỤNG
+### LẬP DÀN Ý CÁC CHỨC NĂNG CỦA HỆ THỐNG,ĐỐI TƯỢNG SỬ DỤNG
+ ## ĐỐI TƯỢNG SỬ DỤNG
+ # Quản trị viên: (quản lý toàn bộ hệ thống,kiểm soát ,phân quyền cho người dùng,quản lý các hoạt động của GV_HS_ LỚP HỌC _ MÔN HỌC  _ ĐIỂM SỐ_ BCAO THỐNG KÊ )
+ # GIÁO VIÊN 
+ # HỌC SINH
+ # PHỤ HUYNH
+ 
 
-## Chức năng của hệ thống
-### QUẢN LÝ GIÁO VIÊN- HỌC SINH
+### Chức năng của hệ thống
+## QUẢN LÝ GIÁO VIÊN- HỌC SINH
 # Quản lý học sinh
 (Thêm/xóa/sửa thông tin học sinh(họ tên,ngày sinh ,giới tính,dịa chỉ lớp)
 # Quản lý giáo viên
